@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhishekmeena345/leetcode-/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/abhishekmeena345/leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmeena345/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0525-contiguous-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekmeena345/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhishekmeena345/leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
