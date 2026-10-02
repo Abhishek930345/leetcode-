@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhishekmeena345/leetcode-/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekmeena345/leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmeena345/leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abhishekmeena345/leetcode-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0525-contiguous-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekmeena345/leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekmeena345/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmeena345/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekmeena345/leetcode-/tree/master/1386-cinema-seat-allocation) |
 ## Rolling Hash
 |  |
