@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekmeena345/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhishekmeena345/leetcode-/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abhishekmeena345/leetcode-/tree/master/0290-word-pattern) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
@@ -155,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekmeena345/leetcode-/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
