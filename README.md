@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/abhishekmeena345/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekmeena345/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekmeena345/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekmeena345/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/3731-find-missing-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishekmeena345/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekmeena345/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhishekmeena345/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekmeena345/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekmeena345/leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekmeena345/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekmeena345/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/3731-find-missing-elements) |
 ## Math
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekmeena345/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
