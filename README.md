@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishekmeena345/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhishekmeena345/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekmeena345/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekmeena345/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
