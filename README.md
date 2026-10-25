@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishekmeena345/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhishekmeena345/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekmeena345/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishekmeena345/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekmeena345/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0525-contiguous-array) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekmeena345/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishekmeena345/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishekmeena345/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekmeena345/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmeena345/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishekmeena345/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
