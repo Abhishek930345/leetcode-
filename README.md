@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishekmeena345/leetcode-/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/abhishekmeena345/leetcode-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/abhishekmeena345/leetcode-/tree/master/0301-remove-invalid-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishekmeena345/leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhishekmeena345/leetcode-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishekmeena345/leetcode-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/abhishekmeena345/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishekmeena345/leetcode-/tree/master/0268-missing-number) |
