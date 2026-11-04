@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhishekmeena345/leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhishekmeena345/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/abhishekmeena345/leetcode-/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishekmeena345/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekmeena345/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/abhishekmeena345/leetcode-/tree/master/3838-weighted-word-mapping) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishekmeena345/leetcode-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhishekmeena345/leetcode-/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekmeena345/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/abhishekmeena345/leetcode-/tree/master/3838-weighted-word-mapping) |
 ## Bracket Sequences
 |  |
 | ------- |
