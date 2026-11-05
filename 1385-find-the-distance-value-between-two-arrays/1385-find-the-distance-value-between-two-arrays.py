@@ -1,12 +1,19 @@
 class Solution:
-    def findTheDistanceValue(self, arr1: list[int], arr2: list[int], d: int) -> int:
-        m, n = len(arr1), len(arr2)
-        arr2.sort()
-        ans = 0
-        for num in arr1:
-            idx = bisect_left(arr2, num - d)
-            if idx < len(arr2) and arr2[idx] <= num + d:
-                continue 
-            else:
-                ans += 1
-        return ans
+    def findTheDistanceValue(self, arr1, arr2, d):
+
+        res = 0
+
+        for a in arr1:
+
+            found = False
+
+            for b in arr2:
+
+                if abs(a - b) <= d:
+                    found = True
+                    break
+
+            if not found:
+                res += 1
+
+        return res
