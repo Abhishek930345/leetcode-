@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekmeena345/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishekmeena345/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekmeena345/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekmeena345/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/abhishekmeena345/leetcode-/tree/master/3838-weighted-word-mapping) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhishekmeena345/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhishekmeena345/leetcode-/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekmeena345/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekmeena345/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/abhishekmeena345/leetcode-/tree/master/3838-weighted-word-mapping) |
 ## Bracket Sequences
