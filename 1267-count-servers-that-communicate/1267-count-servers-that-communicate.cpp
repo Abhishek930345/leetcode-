@@ -52,45 +52,26 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        queue<pair<int,int>> q;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
+        vector<int> row(n, 0);
+        vector<int> col(m, 0);
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(grid[i][j] == 1) {
-                    q.push({i, j});
+                    row[i]++;
+                    col[j]++;
                 }
             }
         }
 
         int cnt = 0;
 
-        while(!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
-            q.pop();
-
-            bool communicate = false;
-
-            // Check entire row
+        for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-                if(j != c && grid[r][j] == 1) {
-                    communicate = true;
-                    break;
+                if(grid[i][j] == 1 &&
+                   (row[i] > 1 || col[j] > 1)) {
+                    cnt++;
                 }
-            }
-
-            // Check entire column
-            for(int i = 0; i < n; i++) {
-                if(i != r && grid[i][c] == 1) {
-                    communicate = true;
-                    break;
-                }
-            }
-
-            if(communicate && !vis[r][c]) {
-                vis[r][c] = 1;
-                cnt++;
             }
         }
 
